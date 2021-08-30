@@ -21,6 +21,8 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/nolan/64/active-directory.png"/>
 <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
   
 # Contatos
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>](https://www.instagram.com/manoel2061/)
