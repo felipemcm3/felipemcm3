@@ -26,5 +26,5 @@
   
 # Contatos
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>](https://www.instagram.com/manoel2061/)
-[<img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](https://mail.google.com/mail/u/1/#inbox)
+[<img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](mailto:felipemcm3@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/felipe-manoel-b85b061b5/)
