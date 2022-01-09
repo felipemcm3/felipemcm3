@@ -1,6 +1,6 @@
 ### Oi, sou Felipe Manoel ✨
 
-- Estudando Redes de Computadores 📡
+- Graduado em Redes de Computadores 📡
 - Estudando html, css e javascript 💯
 - Apaixonado por livros 📗
 - Aberto a empregos 🤩
