@@ -1,7 +1,7 @@
 ### Oi, sou Felipe Manoel ✨
 
 - Graduado em Redes de Computadores 📡
-- Estudando html, css e javascript 💯
+- Pós-Graduando em Desenvolvimento Web Full Stack 💯
 - Apaixonado por livros 📗
 - Aberto a empregos 🤩
 
