@@ -1,7 +1,7 @@
 ### Oi, sou Felipe Manoel ✨
 
 - Graduado em Redes de Computadores 📡
-- Pós-Graduando em Desenvolvimento Web Full Stack 💯
+- Aluno da Rocketseat Desenvolvimento Web 💯
 - Apaixonado por livros 📗
 - Aberto a empregos 🤩
 
