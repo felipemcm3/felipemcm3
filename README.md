@@ -1,9 +1,10 @@
 ### Oi, sou Felipe Manoel ✨
 
 - Graduado em Redes de Computadores 📡
+-Pós-Graduando em Desenvolvimento Web-Full Stack
 - Aluno da Rocketseat Desenvolvimento Web 💯
 - Apaixonado por livros 📗
-- Aberto a empregos 🤩
+- Estagiario Alghorit 🤩
 
 <div>
   <a href="https://github.com/felipemcm3">
